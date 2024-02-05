@@ -3,5 +3,5 @@ kind: Kustomization
 metadata:
   name: aes-crds
 resources:
-  - https://app.getambassador.io/yaml/edge-stack/3.10.0/aes-crds.yaml
+  - crds.yaml
 
